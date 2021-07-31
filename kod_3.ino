@@ -8,7 +8,7 @@
 
 WiFiServer server(80);
 
-int role_pini = D0;
+int role_pini = D1;
 
 void initWiFi() {
   
